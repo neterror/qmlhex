@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/HexEdit/HexEdit.qml</file>
+        <file>qml/HexEdit/main.qml</file>
+    </qresource>
+</RCC>
